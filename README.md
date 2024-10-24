@@ -56,3 +56,5 @@ Las contribuciones son bienvenidas. Si deseas contribuir a este proyecto, por fa
 
 ¡Disfruta jugando Tetris! 🎉 Si tienes preguntas o sugerencias, no dudes en contactarme. 😊
 ```
+![FireShot Capture 076 - Tetris Game - 127 0 0 1](https://github.com/user-attachments/assets/229b590e-294a-4551-8da7-ff4ebbc2683b)
+
